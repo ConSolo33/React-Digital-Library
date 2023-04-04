@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background-color: black;
+    font-family: trattatello;
+}
+
+.MuiDataGrid-checkboxInput, .MuiDataGrid-footerCell	 {
+    color: lime;
+    border-color: lime;
+}
